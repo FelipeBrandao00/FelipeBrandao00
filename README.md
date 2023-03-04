@@ -34,7 +34,7 @@
 
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
+[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://getbootstrap.com)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 </div>
 
@@ -42,14 +42,14 @@
 
 <div>
 
-[![c#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/c)
+[![c#](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/C_Sharp)
 </div>
 
 <h5>Mobile:</h5>
 
 <div>
 
-[![dotnet maui](https://skills.thijs.gg/icons?i=dotnet)](https://pt.wikipedia.org/wiki/react)
+[![dotnet maui](https://skills.thijs.gg/icons?i=dotnet)](https://learn.microsoft.com/pt-br/dotnet/maui/what-is-maui?view=net-maui-7.0)
   <br> 
 </div>
 
@@ -58,7 +58,7 @@
 <div>
  
   [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
-  [![VisualStudio](https://skills.thijs.gg/icons?i=visualstudio)](https://pt.wikipedia.org/wiki/vscode)
+  [![VisualStudio](https://skills.thijs.gg/icons?i=visualstudio)](https://visualstudio.microsoft.com/pt-br/)
   [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
