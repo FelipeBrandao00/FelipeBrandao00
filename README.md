@@ -15,8 +15,8 @@
 <div align="center">
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeBrandao00&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
-
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBrandao00&layout=compact&theme=dark" /> -->
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBrandao00&layout=compact&theme=dark" /> 
   
 
 </div>  
