@@ -16,7 +16,7 @@
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeBrandao00&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
 
-<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeBrandao00&layout=compact&langs_count=8&theme=dark" > 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBrandao00&layout=compact&theme=dark" />
   
 <!-- ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipeBrandao00&custom_title=Felipe's%20GitHub%20Activity%20Graph&bg_color=0B1723&color=0B1723&line=9B9E7F&pointfff&area_color=FE428E&title_color=9B9E7F&area=true) -->
 
