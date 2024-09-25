@@ -1,10 +1,10 @@
 <h1 align="center">
-👨🏻‍💻 Olá, sou <a href="#">Felipe Brandão</a>, Full stack developer
+👨🏻‍💻 Olá, sou <a href="https://www.linkedin.com/in/felipe-brand%C3%A3o-4461aa22a/">Felipe Brandão</a>, Full stack developer
 </h1>
   
   💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
   
-  👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Full Stack end na <a href="#">Mbm Systems</a>
+  👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Full-Stack na Mbm Systems
   
   <!-- __________________________________________________________________________________________________________________________________________________ -->
 
